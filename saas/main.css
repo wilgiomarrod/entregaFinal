@@ -1,0 +1,24 @@
+.followUsW {
+  background-color: rgb(98, 21, 170);
+}
+.followUsW h3 {
+  font-size: 20px;
+}
+
+a.hover {
+  color: rgb(98, 21, 170);
+}
+
+footer {
+  background-color: rgb(98, 21, 170);
+}
+
+.foteritem {
+  font-size: 14px;
+}
+.foteritem ul li {
+  font-size: 12px;
+}
+.foteritem ul li a {
+  color: white;
+}/*# sourceMappingURL=main.css.map */

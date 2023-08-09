@@ -2,7 +2,7 @@
 @import 'variables';
 
 .followUsW{
-    background-color: $colorFondo;
+    background: $colorFondo;
     h3{
         font-size: 20px;
     }
@@ -11,13 +11,13 @@ a.hover{
     color: $colorFondo;
 }
 footer{
-    background-color: $colorFondo;
+    background: $colorFondo;
 }
 .foteritem{
     font-size: $letraFooterSize;
     ul{
         li{
-            font-size: $letraFooterSize-2;
+            font-size:$letraFooterSize - $letraitemsFontSize;
             a{
                 color:white; 
             }

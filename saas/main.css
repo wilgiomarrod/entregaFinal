@@ -1,16 +1,16 @@
 .followUsW {
-  background-color: rgb(98, 21, 170);
+  background: radial-gradient(rgb(143, 7, 131), rgb(78, 9, 78));
 }
 .followUsW h3 {
   font-size: 20px;
 }
 
 a.hover {
-  color: rgb(98, 21, 170);
+  color: radial-gradient(rgb(143, 7, 131), rgb(78, 9, 78));
 }
 
 footer {
-  background-color: rgb(98, 21, 170);
+  background: radial-gradient(rgb(143, 7, 131), rgb(78, 9, 78));
 }
 
 .foteritem {
